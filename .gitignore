@@ -1,0 +1,4 @@
+data/
+*.tar
+*.tar.gz
+cifar10_resnet18_model.pth
